@@ -6,7 +6,7 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
+  "dependencies": {
     "chai": "^3.5.0",
     "dotenv": "^2.0.0",
     "md5": "^2.2.1",
